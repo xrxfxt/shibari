@@ -1,0 +1,16 @@
+name: GHP Deploy
+
+on:
+  push:
+  schedule:
+    - cron: '37 1,5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    uses: xrxfxt/ghp/.github/workflows/ghp.yml@main
