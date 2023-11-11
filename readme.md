@@ -9,6 +9,7 @@
 ## Core
 
 [![Junctions](/shibari.junctions/assets/junctions.jpg)](/shibari.junctions)
+[![Somerville Bowline](/shibari.somerville.bowline/assets/junctions.jpg)](/shibari.somerville.bowline)
 
 ## TK
 
@@ -17,7 +18,11 @@
 [![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/)
 [![3TK Mt Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)](/shibari.tk.3.fuji/)
 
-## Art
+## Misc
+
+[![Malasana](https://xrxfxt.github.io/shibari.malasana.tie/assets/Malasana-28.jpg)](https://xrxfxt.github.io/shibari.malasana.tie/)
+
+## Drawing
 
 ![Drawing Shibari 1](img/art/4.advices.for.drawing.shibari.1.jpg)
 ![Drawing Shibari 2](img/art/4.advices.for.drawing.shibari.2.jpg)
