@@ -9,7 +9,7 @@
 ## Core
 
 [![Junctions](/shibari.junctions/assets/junctions.jpg)](/shibari.junctions)
-[![Somerville Bowline](/shibari.somerville.bowline/assets/junctions.jpg)](/shibari.somerville.bowline)
+[![Somerville Bowline](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)](/shibari.somerville.bowline)
 
 ## TK
 
@@ -20,7 +20,7 @@
 
 ## Misc
 
-[![Malasana](https://xrxfxt.github.io/shibari.malasana.tie/assets/Malasana-28.jpg)](https://xrxfxt.github.io/shibari.malasana.tie/)
+[![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)](/shibari.malasana.tie/)
 
 ## Drawing
 
