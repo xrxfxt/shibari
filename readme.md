@@ -24,7 +24,7 @@
 
 ## BTS
 
-[!BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)
+![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)
 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.
 2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.
 3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).
