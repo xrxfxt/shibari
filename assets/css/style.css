@@ -1,3 +1,5 @@
 @import "/ghp/styles.css";
 @import "/ghp/rouge.css";
-@import "style.css";
+@import "../../style.css";
+@import "../style.css";
+@import "./style.css";
