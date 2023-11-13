@@ -24,13 +24,10 @@
 
 ## BTS
 
-![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)
-1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.
-2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.
-3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).
-4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.
-5. Have your partner get in position.
-6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).
+|    |    |
+| -- | -- |
+| ![BTS Malasana](img/bts/2023.10.14.BTS.Malasana.2.jpg)   | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like.  The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7.
+| ![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)       | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/> |
 
 ## Drawing
 
