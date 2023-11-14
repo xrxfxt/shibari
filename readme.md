@@ -1,31 +1,31 @@
 # Shibari
 
 <table>
-<tr><th>Core</th></tr>
-<tr>
-<td>Junctions [![](/shibari.junctions/assets/junctions.jpg)](/shibari.junctions)</td>
-<td>[![Somerville Bowline](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)](/shibari.somerville.bowline)</td>
-</tr>
-<tr><th>TK</th></tr>
-<tr>
-<td>2TK [![](/shibari.tk.2/assets/2TK-500x500.jpg)](/shibari.tk.2/)</td> 
-<td>3TK-X [![](/shibari.tk.3.x/assets/3TK-500x500.jpg)](/shibari.tk.3.x/) </td>
-<td>3TK-Y [![](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/) </td>
-</tr>
-<tr>
-<td>3TK-Fuji[![](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)](/shibari.tk.3.fuji/) </td>
-</tr>
-<tr><th>Misc</th></tr>
-<tr>
-<td>Malasana[![](/shibari.malasana.tie/assets/Malasana-28.jpg)](/shibari.malasana.tie/) </td>
-</tr>
-<tr><th>BTS</th></tr>
-<tr>
-| ![BTS Malasana](img/bts/2023.10.14.BTS.Malasana.2.jpg)   | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like.  The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7.
-| ![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)       | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/> |
-<tr>
-<td></td>
-</tr>
+  <tr><th>Core</th></tr>
+  <tr>
+    <td>Junctions [![](/shibari.junctions/assets/junctions.jpg)](/shibari.junctions)</td>
+    <td>[![Somerville Bowline](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)](/shibari.somerville.bowline)</td>
+  </tr>
+  <tr><th>TK</th></tr>
+  <tr>
+    <td>2TK [![](/shibari.tk.2/assets/2TK-500x500.jpg)](/shibari.tk.2/)</td> 
+    <td>3TK-X [![](/shibari.tk.3.x/assets/3TK-500x500.jpg)](/shibari.tk.3.x/) </td>
+    <td>3TK-Y [![](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/) </td>
+  </tr>
+  <tr>
+    <td>3TK-Fuji[![](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)](/shibari.tk.3.fuji/) </td>
+  </tr>
+  <tr><th>Misc</th></tr>
+  <tr>
+    <td>Malasana[![](/shibari.malasana.tie/assets/Malasana-28.jpg)](/shibari.malasana.tie/) </td>
+  </tr>
+  <tr><th>BTS</th></tr>
+</table>
+
+|                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --                                                     | --                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ![BTS Malasana](img/bts/2023.10.14.BTS.Malasana.2.jpg) | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like.  The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7.
+| ![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)     | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Art
 
@@ -34,7 +34,6 @@
 ![Drawing Shibari 3](img/art/4.advices.for.drawing.shibari.3.jpg)
 ![Drawing Shibari 4](img/art/4.advices.for.drawing.shibari.4.jpg)
 ![Drawing Shibari 5](img/art/4.advices.for.drawing.shibari.5.jpg)
-</table>
 
 <!--
 <table>
@@ -51,7 +50,6 @@
  <td></td>
 </tr>
 <tr><th>Core</th></tr><tr>
- <td>Somerville Bowline<br><a href="./somerville.bowline.md"><img src="./assets/somerville.bowline/somerville-bowline.jpg" /></a></td>
   <td>Square Knot<br><a href="square.knot.md"><img src="./assets/square.knot/Square-Knot-Single-Column.jpg" /></a></td>
   <td>Lark's Head<br><a href="./larks.head.md"><img src="/assets/larks.head/Larks-Head-SC-500x500.jpg" /></a></td>
 </tr><tr>
