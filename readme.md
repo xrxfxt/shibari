@@ -7,9 +7,9 @@
 
 ## TK
 
-[![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)](/shibari.tk.2/)                 
-[![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)](/shibari.tk.3.x/)              
-[![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/)   
+[![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)](/shibari.tk.2/)
+[![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)](/shibari.tk.3.x/)
+[![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/)
 [![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)](/shibari.tk.3.fuji/)
 
 ## Misc
