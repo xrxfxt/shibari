@@ -2,37 +2,37 @@
 
 ## Core
 
-[![Junctions](/shibari.junctions/assets/junctions.jpg)](/shibari.junctions) 
-[![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)](/shibari.somerville.bowline)
+- ![Junctions](/shibari.junctions/assets/junctions.jpg) [Junctions](/shibari.junctions/assets/junctions.jpg)(/shibari.junctions) 
+- ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg) [Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)(/shibari.somerville.bowline)
 
 ## TK
 
-[![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)](/shibari.tk.2/)
-[![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)](/shibari.tk.3.x/)
-[![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)](/shibari.tk.3.y/)
-[![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)](/shibari.tk.3.fuji/)
+- ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg) [2TK](/shibari.tk.2/assets/2TK-500x500.jpg)(/shibari.tk.2/)
+- ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg) [3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)(/shibari.tk.3.x/)
+- ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg) [3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)(/shibari.tk.3.y/)
+- ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg) [Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)(/shibari.tk.3.fuji/)
 
 ## Misc
 
-[![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)](/shibari.malasana.tie/)
-[![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)](/shibari.mounting.harness)
+- ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg) [Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)(/shibari.malasana.tie/)
+- ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg) [Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)(/shibari.mounting.harness)
 
 
 ## BTS
 
 |                                                        |    |
 | --                                                     | -- |
-| ![BTS Malasana](img/bts/2023.10.14.BTS.Malasana.2.jpg) | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like.  The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7. |
-| ![BTS Malasana](img/bts/23.11.12.bts.malasana.jpg)     | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/> |
-| ![BTS Turkey](img/bts/trussed.like.turkey.jpg)     | 1. Start with a [Shinju](https://www.theduchy.com/shinju/) with an optional extra wrap on the top strap to better distribute the force.<br/> 2. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) around each bicep. Let the tails drop for now.<br/> 3. Add a [Spiral Futomomo](https://www.theduchy.com/spiral-futomomo/) to each leg. (Alternatively, you can use a [Double Column](https://www.theduchy.com/larks-head-double-column/).)<br/> 4. Add a new rope to each ankle cuff, with the tail leading toward the torso. You can use a simple [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to do so, or use a Woven Lark’s Head as shown in Details below.<br/> 5. Bring the tails from (4) up to and under the upper chest strap. (Optional) Pull them to pull your partner into an arch.<br/> 6. Wrap the tails around the stem to use them up.<br/> 7. If you have a lot of rope left over like I did, you can also use it up by running the strands around the body.<br/> 8. Use the tails from (2) to pull the arms toward the back. Run the tails under the stem to hold the arm cuffs in place, then use up the extra rope by wrapping it around the upper stem.<br/> 9. (Optional) Add [Single Column](https://www.theduchy.com/larks-head-single-column/)s to each wrist, then connect them together in front of the chest so that the arms cannot be straightened.<br/> |
+| BTS Malasana![](img/bts/2023.10.14.BTS.Malasana.2.jpg) | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like.  The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/>7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7. |
+| BTS Malasana![](img/bts/23.11.12.bts.malasana.jpg)     | 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.<br/>2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.<br/>3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).<br/>4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.<br/>5. Have your partner get in position.<br/>6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).<br/> |
+| BTS Turkey![](img/bts/trussed.like.turkey.jpg)     | 1. Start with a [Shinju](https://www.theduchy.com/shinju/) with an optional extra wrap on the top strap to better distribute the force.<br/> 2. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) around each bicep. Let the tails drop for now.<br/> 3. Add a [Spiral Futomomo](https://www.theduchy.com/spiral-futomomo/) to each leg. (Alternatively, you can use a [Double Column](https://www.theduchy.com/larks-head-double-column/).)<br/> 4. Add a new rope to each ankle cuff, with the tail leading toward the torso. You can use a simple [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to do so, or use a Woven Lark’s Head as shown in Details below.<br/> 5. Bring the tails from (4) up to and under the upper chest strap. (Optional) Pull them to pull your partner into an arch.<br/> 6. Wrap the tails around the stem to use them up.<br/> 7. If you have a lot of rope left over like I did, you can also use it up by running the strands around the body.<br/> 8. Use the tails from (2) to pull the arms toward the back. Run the tails under the stem to hold the arm cuffs in place, then use up the extra rope by wrapping it around the upper stem.<br/> 9. (Optional) Add [Single Column](https://www.theduchy.com/larks-head-single-column/)s to each wrist, then connect them together in front of the chest so that the arms cannot be straightened.<br/> |
 
 ## Art
 
-![Drawing Shibari 1](img/art/4.advices.for.drawing.shibari.1.jpg)
-![Drawing Shibari 2](img/art/4.advices.for.drawing.shibari.2.jpg)
-![Drawing Shibari 3](img/art/4.advices.for.drawing.shibari.3.jpg)
-![Drawing Shibari 4](img/art/4.advices.for.drawing.shibari.4.jpg)
-![Drawing Shibari 5](img/art/4.advices.for.drawing.shibari.5.jpg)
+- ![Drawing Shibari 1](img/art/4.advices.for.drawing.shibari.1.jpg)
+- ![Drawing Shibari 2](img/art/4.advices.for.drawing.shibari.2.jpg)
+- ![Drawing Shibari 3](img/art/4.advices.for.drawing.shibari.3.jpg)
+- ![Drawing Shibari 4](img/art/4.advices.for.drawing.shibari.4.jpg)
+- ![Drawing Shibari 5](img/art/4.advices.for.drawing.shibari.5.jpg)
 
 <!--
 <table>
@@ -96,3 +96,4 @@
 </tr>
 </table>
 -->
+
