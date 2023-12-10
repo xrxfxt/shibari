@@ -15,7 +15,7 @@
 ## Misc
 
 [![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)](/shibari.malasana.tie/)
-[![Mounting Harness](shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)](shibari.mounting.harness)
+[![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)](/shibari.mounting.harness)
 
 
 ## BTS
