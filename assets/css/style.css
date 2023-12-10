@@ -1,5 +1,2 @@
-@import "/ghp/styles.css";
-@import "/ghp/rouge.css";
-@import "../../style.css";
-@import "../style.css";
-@import "./style.css";
+@import "/ghp/assets/css/style.css";
+img { max-width: 19rem; border: 1px solid black; }
