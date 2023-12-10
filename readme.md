@@ -2,20 +2,20 @@
 
 ## Core
 
-- ![Junctions](/shibari.junctions/assets/junctions.jpg) [Junctions](/shibari.junctions/assets/junctions.jpg)(/shibari.junctions) 
-- ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg) [Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)(/shibari.somerville.bowline)
+- ![Junctions](/shibari.junctions/assets/junctions.jpg) [Junctions](/shibari.junctions) 
+- ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg) [Somerville](/shibari.somerville.bowline)
 
 ## TK
 
-- ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg) [2TK](/shibari.tk.2/assets/2TK-500x500.jpg)(/shibari.tk.2/)
-- ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg) [3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)(/shibari.tk.3.x/)
-- ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg) [3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)(/shibari.tk.3.y/)
-- ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg) [Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)(/shibari.tk.3.fuji/)
+- ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg) [2TK](/shibari.tk.2/)
+- ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg) [3TK](/shibari.tk.3.x/)
+- ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg) [3TK-Y](/shibari.tk.3.y/)
+- ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg) [Fuji](/shibari.tk.3.fuji/)
 
 ## Misc
 
-- ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg) [Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)(/shibari.malasana.tie/)
-- ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg) [Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)(/shibari.mounting.harness)
+- ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg) [Malasana](/shibari.malasana.tie/)
+- ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg) [Mounting Harness](/shibari.mounting.harness)
 
 
 ## BTS
