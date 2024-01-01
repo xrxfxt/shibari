@@ -3,8 +3,8 @@
 
 <div class="flow" markdown="1">
 
-- ![Junctions](/shibari.junctions/assets/junctions.jpg) [Junctions](/shibari.junctions)
-- ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg) [Somerville](/shibari.somerville.bowline)
+- [Junctions](/shibari.junctions) ![Junctions](/shibari.junctions/assets/junctions.jpg)
+- [Somerville](/shibari.somerville.bowline) ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 <div class="flow" markdown="1">
 
-- ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg) [2TK](/shibari.tk.2/)
-- ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg) [3TK](/shibari.tk.3.x/)
-- ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg) [3TK-Y](/shibari.tk.3.y/)
-- ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg) [Fuji](/shibari.tk.3.fuji/)
+- [2TK](/shibari.tk.2/) ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)
+- [3TK](/shibari.tk.3.x/) ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)
+- [3TK-Y](/shibari.tk.3.y/) ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)
+- [Fuji](/shibari.tk.3.fuji/) ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)
 
 </div>
 
@@ -23,9 +23,9 @@
 
 <div class="flow" markdown="1">
 
-- ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg) [Malasana](/shibari.malasana.tie/)
-- ![Doggy Style Harness](/shibari.doggy.style.harness/img/doggy-style-harness.jpg) [Mounting Harness](/shibari.doggy.style.harness)
-- ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg) [Mounting Harness](/shibari.mounting.harness)
+- [Malasana](/shibari.malasana.tie/) ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)
+- [Doggy Style Harness](/shibari.doggy.style.harness) ![Doggy Style Harness](/shibari.doggy.style.harness/img/doggy-style-harness.jpg) 
+- [Mounting Harness](/shibari.mounting.harness) ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
 
 </div>
 
