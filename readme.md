@@ -15,6 +15,7 @@
 ## Misc
 
 - [Malasana](/shibari.malasana.tie/)![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)
+- [Mounting Harness](/shibari.doggy.style.harness)![Doggy Style Harness](/shibari.doggy.style.harness/img/doggy-style-harness.jpg)
 - [Mounting Harness](/shibari.mounting.harness)![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
 
 
