@@ -1,4 +1,16 @@
 # Shibari
+
+
+<!-- vim-markdown-toc GFM -->
+
+* [Core](#core)
+* [TK](#tk)
+* [Misc](#misc)
+* [BTS](#bts)
+* [Art](#art)
+
+<!-- vim-markdown-toc -->
+
 ## Core
 
 <div class="flow" markdown="1">
