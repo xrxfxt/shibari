@@ -34,9 +34,10 @@
 
 <div class="flow" markdown="1">
 
-- [Malasana](/shibari.malasana.tie/) ![Malasana](/shibari.malasana.tie/assets/Malasana-28.jpg)
-- [Doggy Style Harness](/shibari.doggy.style.harness) ![Doggy Style Harness](/shibari.doggy.style.harness/img/doggy-style-harness.jpg)
-- [Mounting Harness](/shibari.mounting.harness) ![Mounting Harness](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
+- [Malasana](/shibari.malasana.tie/) ![](/shibari.malasana.tie/assets/Malasana-28.jpg)
+- [Doggy Style Harness](/shibari.doggy.style.harness) ![](/shibari.doggy.style.harness/img/doggy-style-harness.jpg)
+- [Mounting Harness](/shibari.mounting.harness) ![](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
+- [Solomon G String](/shibari.solomon.g.string/) ![](/shibari.solomon.g.string/assets/Solomons-G-String.jpg)
 
 </div>
 
