@@ -43,7 +43,9 @@
 
 ## BTS
 
-### BTS Malasana![](img/bts/2023.10.14.BTS.Malasana.2.jpg)
+### BTS Malasana
+![](img/bts/23.11.12.bts.malasana.jpg)
+![](img/bts/2023.10.14.BTS.Malasana.2.jpg)
 1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.
 2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.
 3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).
@@ -52,15 +54,8 @@
 6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).
 7. (Not Shown) If you want to prevent your partner from being able to wiggle up toward the headboard, you could use a [Lark’s Head Knot](https://www.theduchy.com/larks-head-knot/) to add a new rope to the center back of the Malasana before you have your partner lay down (before Step 5 above).  Then tie it off to the foot of the bed here at Step 7.
 
-### BTS Malasana![](img/bts/23.11.12.bts.malasana.jpg)
-1. Add a [Malasana Tie](https://www.theduchy.com/malasana/) to hold your partner in a bent, legs-open position.
-2. Add a [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) to the wrists.
-3. Add a rope around the cinch of 3 to make it [load-baring](https://www.theduchy.com/load-bearing-double-column/).
-4. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) to each ankle.
-5. Have your partner get in position.
-6. Tie the leads to anchor points using whatever technique you like. The simplest method is using [Two Half Hitches](https://www.theduchy.com/half-hitches/).
-
-### BTS Turkey![](img/bts/trussed.like.turkey.jpg)
+### BTS Turkey
+![](img/bts/trussed.like.turkey.jpg)
 1. Start with a [Shinju](https://www.theduchy.com/shinju/) with an optional extra wrap on the top strap to better distribute the force.
 2. Add a [Slipped Somerville Bowline](https://www.theduchy.com/somerville-bowline/#slipped-somerville-bowline) around each bicep. Let the tails drop for now.
 3. Add a [Spiral Futomomo](https://www.theduchy.com/spiral-futomomo/) to each leg. (Alternatively, you can use a [Double Column](https://www.theduchy.com/larks-head-double-column/).)
@@ -70,6 +65,24 @@
 7. If you have a lot of rope left over like I did, you can also use it up by running the strands around the body.
 8. Use the tails from (2) to pull the arms toward the back. Run the tails under the stem to hold the arm cuffs in place, then use up the extra rope by wrapping it around the upper stem.
 9. (Optional) Add [Single Column](https://www.theduchy.com/larks-head-single-column/)s to each wrist, then connect them together in front of the chest so that the arms cannot be straightened.
+
+### Cherie's Twisted Torment
+![](img/bts/24.02.18.cherie.twisted.torment.jpg)
+1. A [Single Column](https://www.theduchy.com/square-knot-single-column/) (Whenever I say “Single Column”, you can use whichever you like best. Perhaps the [Square Knot Single Column](https://www.theduchy.com/square-knot-single-column/), [Lark’s Head Single Column](https://www.theduchy.com/larks-head-single-column/) or [Somerville Bowline](https://www.theduchy.com/somerville-bowline/)) around the left knee.
+    - For this and for all subsequent steps where I say “tail tied down”, the tail is run to a ring (or could be the leg of a coffee table, etc.) and tied off.  If there is extra rope you can run the tail from the ring back through the cuff a few times first to use up the rope, then [tie it off](https://www.theduchy.com/handling-locking-off/).  You can see this in Step 5, below.
+    - You can see this cuff a bit better in “44282\_cherie\_004 in the Additional Detail section below.
+2. A Single Column around the left elbow, then the tail tied down.
+    - You can see this a bit in “44282\_cherie\_010”, in the Additional Detail section below.
+3. A Single Column around the left elbow, then the tail tied down to a point that will be out of reach when the tie is complete.
+4. A Single Column around the right knee, then the tail tied down to a point that will be out of reach when the tie is complete.
+5. A Single Column around the right ankle, tail tied down.
+6. A Double Column to tie the right elbow to the right thigh. Use your favorite DC, perhaps the [Lark’s Head Double Column](https://www.theduchy.com/larks-head-double-column/) or the [Square Knot Double Column](https://www.theduchy.com/square-knot-double-column/).
+7. A Double Column to tie the right wrist to the right knee.
+8. A Single Column around the left ankle, then the tail tied down.
+9. The tail from (8) is run to the neck and a relatively loose Single Column is added as a rope collar. Use a Forward-Tension Single Column for this. A [Hojo Cuff](https://www.theduchy.com/hojo-cuff/), a [Somerville Bowline](https://www.theduchy.com/somerville-bowline/) or [Burlington Bowline](https://www.theduchy.com/burlington-bowline/) can all work well.
+    - IMPORTANT: Putting rope around a person’s neck introduces additional risk.  This is something that should only be done by experienced players that understand that risk and how to manage it.
+    - (To see another example of connecting two body parts and having a long tether between them, check out the [Malasana Tie](https://www.theduchy.com/malasana/).)
+10. The tether from (9) can then be put temporarily under tension to add intensity to the scene. Again, this activity adds risk and should only be attempted by experienced players that understand and know how to manage that risk.
 
 ## Art
 
