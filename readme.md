@@ -2,6 +2,12 @@
 
 <!-- vim-markdown-toc GFM -->
 
+## TODO
+
+- [ ] [How to tie the Choker Tie with RopuNawa | Bondage Harness - YouTube](https://www.youtube.com/watch?v=nTUHph_UbGM)
+
+## ToC
+
 * [Core](#core)
 * [TK](#tk)
 * [Misc](#misc)
