@@ -5,6 +5,8 @@
 ## TODO
 
 - [ ] [How to tie the Choker Tie with RopuNawa | Bondage Harness - YouTube](https://www.youtube.com/watch?v=nTUHph_UbGM)
+- [ ] [Gentle beginner flexibility routine with Fuoco - YouTube](https://www.youtube.com/watch?v=0e4eVfOt4ts)
+- [ ] [How To Warm Up For A Rope Bondage Scene | Tops - YouTube](https://www.youtube.com/watch?v=BEGBIz03-_Y)
 
 ## ToC
 
