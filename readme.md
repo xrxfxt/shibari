@@ -22,7 +22,7 @@
 
 <div class="flow" markdown="1">
 
-- [Junctions](/shibari.junctions) ![Junctions](/shibari.junctions/assets/junctions.jpg)
+- [Junctions](http://github.com/xrxfxt/shibari.junctions/blob/main/readme.md) ![Junctions]([/shibari.junctions/assets/junctions.jpg](https://raw.githubusercontent.com/xrxfxt/shibari.junctions/main/assets/junctions.jpg)
 - [Somerville](/shibari.somerville.bowline) ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)
 
 </div>
