@@ -21,18 +21,18 @@
 | Core | |
 | :-- | :-- |
 | [Junctions](http://github.com/xrxfxt/shibari.junctions/blob/main/readme.md) |  ![Junctions](https://raw.githubusercontent.com/xrxfxt/shibari.junctions/main/assets/junctions.jpg)
-| [Somerville](http://github.com/xrxfx/shibari.somerville.bowline/blob/main/readme.md) |  ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)
+| [Somerville](http://github.com/xrxfxt/shibari.somerville.bowline/blob/main/readme.md) |  ![Somerville](/shibari.somerville.bowline/assets/Sommerville-Bowline-12.jpg)
 | TK | 
-| [Tengu](http://github.com/xrxfx/shibari.tengu//blob/main/readme.md) |  ![2TK](/shibari.tengu/img/Tengu.jpg)
-| [2TK](http://github.com/xrxfx/shibari.tk.2//blob/main/readme.md) |  ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)
-| [3TK](http://github.com/xrxfx/shibari.tk.3.x//blob/main/readme.md) |  ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)
-| [3TK-Y](http://github.com/xrxfx/shibari.tk.3.y//blob/main/readme.md) |  ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)
-| [Fuji](http://github.com/xrxfx/shibari.tk.3.fuji//blob/main/readme.md) |  ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)
+| [Tengu](http://github.com/xrxfxt/shibari.tengu//blob/main/readme.md) |  ![2TK](/shibari.tengu/img/Tengu.jpg)
+| [2TK](http://github.com/xrxfxt/shibari.tk.2//blob/main/readme.md) |  ![2TK](/shibari.tk.2/assets/2TK-500x500.jpg)
+| [3TK](http://github.com/xrxfxt/shibari.tk.3.x//blob/main/readme.md) |  ![3TK](/shibari.tk.3.x/assets/3TK-500x500.jpg)
+| [3TK-Y](http://github.com/xrxfxt/shibari.tk.3.y//blob/main/readme.md) |  ![3TK-Y](/shibari.tk.3.y/assets/3TK-Y-Harness-500x500.jpg)
+| [Fuji](http://github.com/xrxfxt/shibari.tk.3.fuji//blob/main/readme.md) |  ![Fuji](/shibari.tk.3.fuji/assets/3TK-Mount-Fuji-500x500.jpg)
 | Misc
-| [Malasana](http://github.com/xrxfx/shibari.malasana.tie//blob/main/readme.md)  | ![](/shibari.malasana.tie/assets/Malasana-28.jpg)
-| [Doggy Style Harness](http://github.com/xrxfx/shibari.doggy.style.harness/blob/main/readme.md) | ![](/shibari.doggy.style.harness/img/doggy-style-harness.jpg)
-| [Mounting Harness](http://github.com/xrxfx/shibari.mounting.harness/blob/main/readme.md)  | ![](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
-| [Solomon G String](http://github.com/xrxfx/shibari.solomon.g.string//blob/main/readme.md)  | ![](/shibari.solomon.g.string/img/Solomons-G-String.jpg)
+| [Malasana](http://github.com/xrxfxt/shibari.malasana.tie//blob/main/readme.md)  | ![](/shibari.malasana.tie/assets/Malasana-28.jpg)
+| [Doggy Style Harness](http://github.com/xrxfxt/shibari.doggy.style.harness/blob/main/readme.md) | ![](/shibari.doggy.style.harness/img/doggy-style-harness.jpg)
+| [Mounting Harness](http://github.com/xrxfxt/shibari.mounting.harness/blob/main/readme.md)  | ![](/shibari.mounting.harness/img/Mounting-Harness-2-16.jpg)
+| [Solomon G String](http://github.com/xrxfxt/shibari.solomon.g.string//blob/main/readme.md)  | ![](/shibari.solomon.g.string/img/Solomons-G-String.jpg)
 
 ## BTS
 
